@@ -1,0 +1,6 @@
+pandas
+numpy
+nltk
+torch
+rouge_score
+bert_score
